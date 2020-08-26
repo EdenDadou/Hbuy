@@ -1,0 +1,36 @@
+{
+    "CONNECT" : "Login",
+    "REGISTER" : "Register",
+
+    "HORSE_TITLE": "Horses",
+    "NEWS_TITLE": "News",
+    "ANNONCE_TITLE": "Offers",
+    "CONTACT_TITLE": "Contact",
+    "FAVORIS_TITLE": "Favoris",
+
+    "NOT_YET_FAV": "You don't have any favorite horse.",
+    "NOT_CONNECTED": "You're not connected.",
+    "NO_HORSE_MATCH": "No horse match",
+
+    "LOGOUT": "Logout",
+
+    "RECENT": "Recent Add",
+    "VIEW": "Most Viewed",
+
+    "SEND": "Send",
+    "PRICE": "Price.",
+    "TITLE_ANNONCE": "Annonce title.",
+    "ANNONCE_CONTENT": "Your annonce.",
+
+    "ASK_ANSWER": "Ask your questions.",
+    "TITLE_ANSWER": "Object.",
+    "QUESTION": "Contact us",
+    "PROPOSITION": "Make a proposition",
+
+    "AGE": " years",
+    "Hongre": "Gelding",
+    "Femelle": "Female",
+    "Male": "Male"
+    
+    
+}

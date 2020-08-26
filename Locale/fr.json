@@ -1,0 +1,36 @@
+{
+    "CONNECT" : "Se Connecter",
+    "REGISTER" : "S'enregistrer",
+
+    "HORSE_TITLE": "Chevaux",
+    "NEWS_TITLE": "News",
+    "ANNONCE_TITLE": "Annonce",
+    "CONTACT_TITLE": "Contact",
+    "FAVORIS_TITLE": "Favoris",
+
+    "NOT_YET_FAV": "Vous n'avez pas encore de chevaux favoris.",
+    "NOT_CONNECTED": "Vous n'etes pas connecté.",
+    "NO_HORSE_MATCH": "Aucun cheval ne correspond a votre recherche",
+
+    "LOGOUT": "Se deconnecter",
+
+    "RECENT": "Ajout Recent",
+    "VIEW": "Les plus vus",
+
+    "SEND": "Envoyer",
+    "PRICE": "Prix.",
+    "TITLE_ANNONCE": "Titre de l'annonce.",
+    "ANNONCE_CONTENT": "Votre annonce.",
+
+    "ASK_ANSWER": "Posez vos questions.",
+    "TITLE_ANSWER": "Objet",
+    "QUESTION": "Nous contacter",
+    "PROPOSITION": "Faire une proposition",
+
+    "AGE": " ans",
+    "Hongre": "Hongre",
+    "Femelle": "Femelle",
+    "Male": "Male"
+
+    
+}

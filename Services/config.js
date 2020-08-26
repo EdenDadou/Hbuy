@@ -1,0 +1,1 @@
+export const URL = 'http://www.h-buy.fr/App/'

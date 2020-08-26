@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Hbuy",
+    "slug": "Hbuy",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios"
+    ],
+    "version": "1.6",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.hbuy",
+      "infoPlist": {
+        "NSPhotoLibraryUsageDescription": "Picture you've selected, will be use to illustrate your offer"
+      }
+    }
+  }
+}
